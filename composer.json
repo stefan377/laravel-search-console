@@ -36,6 +36,12 @@
             "SchulzeFelix\\SearchConsole\\": "src"
         }
     },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/stefan377/laravel-search-console"
+    }
+],
     "extra":{
         "laravel":{
             "providers":[
