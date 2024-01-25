@@ -1,5 +1,5 @@
 {
-    "name": "schulzefelix/laravel-search-console",
+    "name": "stefan377/laravel-search-console",
     "type": "library",
     "description": "A Laravel package to retrieve data from Google Search Console",
     "keywords": [
@@ -9,7 +9,7 @@
         "google",
         "webmaster tools"
     ],
-    "homepage": "https://github.com/schulzefelix/laravel-search-console",
+    "homepage": "https://github.com/stefan377/laravel-search-console",
     "license": "MIT",
     "authors": [
         {
