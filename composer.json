@@ -39,7 +39,8 @@
     "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/stefan377/laravel-search-console"
+        "url": "https://github.com/stefan377/laravel-search-console",
+        "no-api": true
     }
 ],
     "extra":{
